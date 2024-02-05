@@ -70,8 +70,5 @@ Unity의 Animator를 적극 활용하여, 각 모션 사이를 Trigger와 Boolea
     - Lightbulb (전구 모양 사용)
     - SDF_Basic TrainingStage
 
-### 깃헙 링크
-https://github.com/kesler1202/Madcamp_Week4
-
 ### 폴더 링크
 https://drive.google.com/drive/folders/1C6tFBKkZhZ_c4TaHmczzpBASf2eOFJhi?usp=drive_link
