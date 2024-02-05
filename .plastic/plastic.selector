@@ -1,0 +1,4 @@
+repository "MadCamp_FightGame@shot_yun_24@cloud"
+  path "/"
+    smartbranch "/main/hw" changeset "133"                                                                                                                                                                                       
+     
