@@ -52,7 +52,8 @@ Unity의 Animator를 적극 활용하여, 각 모션 사이를 Trigger와 Boolea
 2. Stamina Bar (Dodge 쿨다운 표시)
 3. Time Clock (시간 제한)
 
-   ![Uploading play gif.gif…]()
+![play gif](https://github.com/user-attachments/assets/d443cc63-0e3d-43bb-92ba-1d9ec14ed5c7)
+
 
 
 ### Training Scene
